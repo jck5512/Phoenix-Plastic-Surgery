@@ -1,5 +1,5 @@
 header {
-    background-image: url(backgroundgirl.jpg);
+    background-image: url("backgroundgirl.jpg");
     background-position: 0% 58%;
     background-size: 100% auto;
     position: relative;
@@ -78,7 +78,7 @@ section {
 	margin-right: auto;
     text-align: center;
     margin-top: 5%;
-    background-image: url(5086.jpg);
+    background-image: url("5086.jpg");
     background-position: au au;
     background-size: 90% auto;
     padding: 30px;
