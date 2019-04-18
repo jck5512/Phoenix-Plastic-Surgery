@@ -49,7 +49,7 @@ body main h3 {
     margin-top: 3%;
 	margin-left: auto;
 	margin-right: auto;
-    background-image: url(../5086.jpg);
+    background-image: url("5086.jpg");
     background-size: 90% auto;
     padding: 5%;
 }
