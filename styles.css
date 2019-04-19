@@ -72,6 +72,10 @@ body {
     width: 100;
     border-top-width: medium;
     border-top-style: solid;
+	font-family: italianno;
+    font-style: normal;
+    font-size: large;
+}
 }
 section {
     width: 120%;
