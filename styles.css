@@ -94,6 +94,10 @@ section {
     width: 50%;
 	margin-bottom: 15%;
 	line-height: 150%;
+	font-family: arapey;
+    font-style: normal;
+    font-weight: 400;
+    font-size: medium;
 }
 main .mainsection img {
     float: left;
