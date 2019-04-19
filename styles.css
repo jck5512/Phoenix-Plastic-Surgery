@@ -35,12 +35,15 @@ body nav {
     text-align: center;
     border-bottom-style: solid;
     border-bottom-color: #DFAEB4;
+	font-family: crushed;
+    font-style: normal;
+    font-size: larger;
 
 }
 nav h2 a:hover {
 	color: #000000;
 	background: #DFAEB4;
-	padding: 2.5%;
+	padding: 2%;
 }
 
 body main h3 {
@@ -50,10 +53,18 @@ body main h3 {
     background-size: 90% auto;
     padding: 5%;
 	line-height: 150%;
+	font-family: arapey;
+    font-style: normal;
+    font-weight: 400;
+    font-size: medium;
 }
 body {
 	background-color: #EACBD2;
 	text-align: center;
+	font-family: arapey;
+    font-style: normal;
+    font-weight: 400;
+    font-size: medium;
 }
 
 #footer {
@@ -103,6 +114,10 @@ html {
 	width: 100%;
 }
 main .mainsection h1 {
+	font-family: arapey;
+    font-style: normal;
+    font-weight: 400;
+    font-size: larger;
 	
 }
 
