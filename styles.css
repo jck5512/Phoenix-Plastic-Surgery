@@ -45,7 +45,7 @@ nav h2 a:hover {
 
 body main h3 {
     width: 80%;
-    margin-left: 20%;
+    margin-left: 30%;
     background-image: url("5086.jpg");
     background-size: 90% auto;
     padding: 5%;
@@ -80,26 +80,28 @@ section {
     background-size: 90% auto;
     padding: 30px;
     width: 50%;
+	margin-bottom: 10%;
 }
 main .mainsection img {
     float: left;
     clear: both;
     /* [disabled]display: inherit; */
-    margin-bottom: 5%;
+    margin-left: 10%;
 }
 footer {
 	text-align: center;
 	color: #dfaeb4;
 	background-color: #626262;
 	width: 130%;
-	padding-top: 1%;
-	padding-bottom: 1%;
-	padding-left: 1%;
-	padding-right: 1%;
+	padding: 1%;
 	margin-top: 3%;
 	position: absolute;
 }
 html {
 	width: 100%;
 }
+main .mainsection h1 {
+	margin-left: -20%;
+}
+
 
