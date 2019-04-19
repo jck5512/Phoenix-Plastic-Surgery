@@ -16,7 +16,7 @@ body header img {
     height: 8em;
     position: relative;
     left: 12%;
-	margin-top: -8%;
+	margin-top: -30%;
 }
 
 nav h2 a {
@@ -83,8 +83,7 @@ section {
     float: none;
     display: block;
     clear: none;
-    margin-left: 30%;
-	margin-right: auto;
+    margin-left: 40%;
     text-align: center;
     margin-top: 5%;
     background-image: url("5086.jpg");
