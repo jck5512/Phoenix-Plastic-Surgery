@@ -49,6 +49,7 @@ body main h3 {
     background-image: url("5086.jpg");
     background-size: 90% auto;
     padding: 5%;
+	line-height: 150%;
 }
 body {
 	background-color: #EACBD2;
@@ -81,6 +82,7 @@ section {
     padding: 30px;
     width: 50%;
 	margin-bottom: 15%;
+	line-height: 150%;
 }
 main .mainsection img {
     float: left;
