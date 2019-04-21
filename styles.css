@@ -25,7 +25,6 @@ nav h2 a {
 	background: #626262;
 	padding-left: 5%;
 	padding-right: 5%;
-	padding-top: 5%;
 }
 body nav {
     background: #626262;
@@ -96,6 +95,10 @@ section {
     width: 50%;
 	margin-bottom: 10%;
 	line-height: 150%;
+	font-family: arapey;
+	font-style: normal;
+	font-weight: 400;
+	font-size: medium;
 }
 main .mainsection img {
     float: left;
