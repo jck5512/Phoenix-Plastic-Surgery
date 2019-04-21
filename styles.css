@@ -29,6 +29,7 @@ nav h2 a {
 }
 body nav {
     background: #626262;
+	padding-top: 2%;
     width: 135%;
     position: relative;
     margin: 0px
